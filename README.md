@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋! I'm Yen-An Chen
 
-<!--
-**YAChen123/YAChen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on getting my master's degree at NYU.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning software engineering, artificial intelligence, real-time systems, and big data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on software development projects.
+
+💬 Ask me about Life, Technology.
+
+📫 How to reach me: Visit my [Portfolio website](https://yenanchen.netlify.app/).
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: I once wrote code that accidentally caused a harmless robot uprising in a virtual world.
+
+<strong>Have a good day!</strong>
